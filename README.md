@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Sabari Nathan! 👋
 
-<!--
-**dsabarinathan/dsabarinathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :technologist: Senior AI Engineer at [Couger Inc](https://github.com/couger-inc)
+- 🏯: From Chennai,India / Living in Tokyo,Japan
+- :notebook: I like to write about technology on [blog](https://computervisiontoml.wordpress.com/)
+- :two_hearts: In love with Python, Computer vison and Deep Learning
+- :seedling: Learning more about MLOps and ImageGen
+- :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/sabari-nathan-653a8735/))
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on image trimap prediction 
+- 👯 I’m looking to collaborate on open source deep learing computer vision projects
+- 💬 Ask me about Computer Vision on [Quora](https://www.quora.com/profile/Sabari-Nathan-4)
+- 📫 How to reach me: wixblogger2017@gmail.com
