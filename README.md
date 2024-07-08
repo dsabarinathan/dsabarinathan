@@ -10,4 +10,3 @@
 - 🔭 I’m currently working on diffusion models
 - 👯 I’m looking to collaborate on open source deep learing computer vision projects
 - 💬 Ask me about Computer Vision on [Quora](https://www.quora.com/profile/Sabari-Nathan-4)
-- 📫 How to reach me: wixblogger2017@gmail.com
