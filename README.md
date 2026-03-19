@@ -1,6 +1,6 @@
 ### Hey, I'm Sabari Nathan! 👋
 
-- :technologist: Senior AI Engineer at [Couger Inc](https://github.com/couger-inc)
+- :technologist: Senior AI Engineer at [Deloitte tohmatsu deep square co., ltd.](https://present-square.com)
 - 🏯: From Chennai,India / Living in Tokyo,Japan
 - :notebook: I like to write about technology on [blog](https://computervisiontoml.wordpress.com/)
 - :two_hearts: In love with Python, Computer vison and Deep Learning
